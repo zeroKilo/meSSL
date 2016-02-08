@@ -1,0 +1,15 @@
+﻿Der Buildvorgang wurde am 07.02.2016 19:53:02 gestartet.
+     1>Projekt "D:\CODE\c++\meSSL\meSSL\meSSL.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         D:\Programme (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MESSL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         D:\Programme (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CODE\c++\meSSL\Debug\meSSL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CODE\c++\meSSL\Debug\meSSL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CODE\c++\meSSL\Debug\meSSL.lib" /MACHINE:X86 /DLL Debug\dllmain.obj
+         Debug\helpers.obj
+         Debug\stdafx.obj
+         meSSL.vcxproj -> D:\CODE\c++\meSSL\Debug\meSSL.dll
+     1>Die Erstellung des Projekts "D:\CODE\c++\meSSL\meSSL\meSSL.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.53

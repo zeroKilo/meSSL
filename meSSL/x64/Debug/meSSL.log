@@ -1,0 +1,18 @@
+﻿Der Buildvorgang wurde am 08.02.2016 06:31:54 gestartet.
+     1>Projekt "D:\CODE\c++\meSSL\meSSL\meSSL.vcxproj" auf Knoten "2", Build Ziel(e).
+     1>ClCompile:
+         D:\Programme (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MESSL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+     1>d:\code\c++\messl\messl\stdafx.h(12): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+     1>dllmain.cpp(15): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+     1>dllmain.cpp(31): warning C4018: '<': Konflikt zwischen 'signed' und 'unsigned'
+       Link:
+         D:\Programme (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CODE\c++\meSSL\x64\Debug\meSSL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CODE\c++\meSSL\x64\Debug\meSSL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CODE\c++\meSSL\x64\Debug\meSSL.lib" /MACHINE:X64 /DLL x64\Debug\dllmain.obj
+         x64\Debug\helpers.obj
+         x64\Debug\stdafx.obj
+         meSSL.vcxproj -> D:\CODE\c++\meSSL\x64\Debug\meSSL.dll
+     1>Die Erstellung des Projekts "D:\CODE\c++\meSSL\meSSL\meSSL.vcxproj" ist abgeschlossen, Build Ziel(e).
+
+Build erfolgreich.
+
+Verstrichene Zeit 00:00:00.63
